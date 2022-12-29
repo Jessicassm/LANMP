@@ -1,6 +1,7 @@
 #!/bin/bash
 # @Author: eastmoney@shimin.com
 #CreateDate: 27-03-2017
+# 写的不错，可惜有更好的工具来搭建
 
 cat << EOF
 +-------------------------------------------+
